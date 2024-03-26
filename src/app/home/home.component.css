@@ -1,0 +1,13 @@
+
+.card{
+    height: auto;
+    width: 400px;
+}
+
+.card img{
+    height: 250px;
+    width: 100%;
+}
+.row{
+    background-color: rgb(226, 219, 210);
+}
